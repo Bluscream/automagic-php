@@ -33,7 +33,7 @@
     "autoload-dev": {
         "psr-4": { "Swagger\\Client\\" : "test/" }
     }
-  ],
+  ,
   "require": {
     "php": ">=5.5",
     "ext-curl": "*",
