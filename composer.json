@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
     "name": "Bluscream/automagic-php",
     "description": "",
     "keywords": [
@@ -33,22 +32,6 @@
     },
     "autoload-dev": {
         "psr-4": { "Swagger\\Client\\" : "test/" }
-=======
-  "name": "GIT_USER_ID/GIT_REPO_ID",
-  "description": "",
-  "keywords": [
-    "swagger",
-    "php",
-    "sdk",
-    "api"
-  ],
-  "homepage": "http://swagger.io",
-  "license": "proprietary",
-  "authors": [
-    {
-      "name": "Swagger and contributors",
-      "homepage": "https://github.com/swagger-api/swagger-codegen"
->>>>>>> 52541e27249e569c7a0db764edd62ab7919efacc
     }
   ],
   "require": {
